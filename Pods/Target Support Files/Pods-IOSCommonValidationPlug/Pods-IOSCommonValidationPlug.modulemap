@@ -1,0 +1,6 @@
+framework module Pods_IOSCommonValidationPlug {
+  umbrella header "Pods-IOSCommonValidationPlug-umbrella.h"
+
+  export *
+  module * { export * }
+}
